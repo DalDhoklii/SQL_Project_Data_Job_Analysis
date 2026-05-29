@@ -1,0 +1,8 @@
+*
+!project_sql/
+!project_sql/**
+
+!sql_load/
+!sql_load/**
+
+!.gitignore
